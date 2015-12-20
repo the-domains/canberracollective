@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CanberraCollective]]></title>
-        <description><![CDATA[CanberraCollective]]></description>
+        <title><![CDATA[Canberra Collective - Veicolo Fotografia]]></title>
+        <description><![CDATA[Canberra Collective - Veicolo Fotografia]]></description>
         <link>https://thegrid.ai/canberracollective/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 23:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 23:52:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/canberracollective/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2db4305b-20af-4327-9710-82ed903dd570.jpg">]]></description>
+            <link>https://thegrid.ai/canberracollective/e2227fa6-e357-44c7-a117-2a82ce6a3ebd/index.html</link>
+            <guid isPermaLink="false">e2227fa6-e357-44c7-a117-2a82ce6a3ebd</guid>
+            <pubDate>Sun, 20 Dec 2015 23:51:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ef7ded5-a0dd-455d-aff5-1ebf1510079a.jpg">]]></description>
