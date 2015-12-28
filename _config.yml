@@ -1,6 +1,6 @@
 name: CanberraCollective
 favicon: null
-layout_spectrum: 0.87173
+layout_spectrum: 1
 typography_spectrum: 0.18069
 title: Canberra Collective - Veicolo Fotografia
 cta:
@@ -22,7 +22,7 @@ color:
     - '#2a2927'
     - '#a5a4a2'
     - '#fefefe'
-  brandStrength: 0.0625
+  brandStrength: 0
   lightness: 0.4375
   saturation: 0.5
   rhythmicContrast: 0
